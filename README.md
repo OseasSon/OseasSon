@@ -2,7 +2,7 @@ Hi 👋, I'm Oséas Filho
 
 A passionate still learning developer from Brazil living in Dublin.
 
-🔭 I’m currently working on projects for my college.
+🔭 I’m currently working on academic projects.
 
 📫 How to reach me oseas.filho@hotmail.com
 
