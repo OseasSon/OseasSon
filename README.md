@@ -1,6 +1,6 @@
 Hi 👋, I'm Oséas Filho
 
-A passionate still learning developer from Brazil living in Dublin.
+Passionate about all things tech.
 
 🔭 I’m currently working on academic projects.
 
