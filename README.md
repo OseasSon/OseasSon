@@ -2,8 +2,6 @@ Hi 👋, I'm Oséas Filho
 
 Passionate about all things tech.
 
-🔭 I’m currently working on academic projects.
-
 📫 How to reach me oseas.filho@hotmail.com
 
 <!---
