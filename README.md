@@ -1,6 +1,4 @@
-Hi 👋, I'm Oséas Filho
-
-Passionate about all things tech.
+Passionate about all things tech :D
 
 <!---
 OseasSon/OseasSon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
